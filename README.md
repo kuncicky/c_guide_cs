@@ -1,4 +1,4 @@
-# Komplexní průvodce programováním v C
+# Kompletní průvodce programováním v C
 
 ## 1. Datové typy v C
 
